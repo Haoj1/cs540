@@ -1,0 +1,6 @@
+1. get_data_loader: train dataset passed +5 pts; test dataset passed +5 pts; train dataset passed +5 pts; test dataset passed +5 pts; 
+2. build_model: correct model +5 pts; correct flatten dim +5 pts; correct first activation +5 pts; correct total model len +5 pts; 
+3. train_model: passed +5 pts; passed +5 pts; passed +5 pts; passed +5 pts; correct accuracy +5 pts
+4. evaluate_model: accuracy printed +1 pts; passed +4 pts; 
+5. predict_label: Exception: not enough values to unpack (expected 2, got 1)
+Total: 70/100

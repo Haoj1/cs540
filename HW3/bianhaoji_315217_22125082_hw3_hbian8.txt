@@ -1,0 +1,20 @@
+Test P3
+load_and_center_dataset1.txt: test case passed: 5 points
+load_and_center_dataset2.txt: test case passed: 5 points
+load_and_center_dataset3.txt: test case passed: 10 points
+get_covariance.txt: test case passed: 15 points
+get_eig1.txt: test case passed: 3 points
+get_eig2.txt: test case passed: 3 points
+get_eig3.txt: test case passed: 2 points
+get_eig4.txt: test case passed: 3 points
+get_eig5.txt: test case passed: 3 points
+get_eig6.txt: test case passed: 3 points
+get_eig_perc8.txt: test case passed: 4 points
+get_eig_perc9.txt: test case passed: 4 points
+project_image1.txt: test case passed: 2 points
+project_image2.txt: test case passed: 2 points
+project_image3.txt: test case passed: 2 points
+project_image4.txt: test case passed: 3 points
+project_image5.txt: test case passed: 3 points
+project_image6.txt: test case passed: 3 points
+Scores (not including manual inspection): 75
